@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "instrucciones": "Catálogo de capítulos 001–030. Cada capítulo incluye thumbnail 16:9. MEGA usa /embed/ y Google Drive usa /preview/.",
+  "instrucciones": "Catálogo de capítulos 001–031. MEGA usa /embed/ y Google Drive usa /preview/. Cada capítulo incluye miniatura 16:9.",
   "capitulos": [
     {
       "id": "001",
@@ -211,6 +211,13 @@
       "titulo": "Un ensayo general para la competición! ¿Quiénes son los dos últimos miembros",
       "embedUrl": "https://mega.nz/embed/nzZjDY6J#51Sbt_ViBAit4GfOZhnXaTt6vgzhSc_EtB5jYpk2bKk",
       "thumbnail": "https://cdn.moviefone.com/image-assets/62715/53lkGLr33Qr4P3pOQc6bVg7rr1j.jpg?d=640x360&q=80"
+    },
+    {
+      "id": "031",
+      "numero": 31,
+      "titulo": "Ani h",
+      "embedUrl": "https://mega.nz/embed/a0hExShY#PXaYBc3VKzrFlUs527zqevBD9dda1XnNALxdxfAHAHI",
+      "thumbnail": "https://elcomercio-tromecom-prod.web.arc-cdn.net/resizer/v2/T5ERJNDMBBEXVKFJZWYJXPCNGA.jpg?width=640&smart=true&quality=90"
     }
   ]
 }
