@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "instrucciones": "Catálogo de capítulos 001–020. MEGA usa enlaces /embed/ y Google Drive usa enlaces /preview/.",
+  "instrucciones": "Catálogo de capítulos 001–030. MEGA usa enlaces /embed/ y Google Drive usa enlaces /preview/.",
   "capitulos": [
     {
       "id": "001",
@@ -121,6 +121,66 @@
       "numero": 20,
       "titulo": "Una advertencia de Jaco! Freezer y 1000 soldados se acercan.",
       "embedUrl": "https://mega.nz/embed/t6QwEK6b#Ndh_3JrwZZnDJYBk8x3HtmdHyfGJSghmCo6r6e0uDQc"
+    },
+    {
+      "id": "021",
+      "numero": 21,
+      "titulo": "El comienzo de la venganza! ¡La malicia de las fuerzas de Freezer ataca a Gohan!",
+      "embedUrl": "https://mega.nz/embed/JmJWQYTR#45Mu6OeHy30q0CRd0NrqKBjs8lYGZM3BrsACblL4izU"
+    },
+    {
+      "id": "022",
+      "numero": 22,
+      "titulo": "Cambio! ¡Un regreso inesperado! ¡Su nombre es Ginyu",
+      "embedUrl": "https://drive.google.com/file/d/1IZsWnlrYbY6EiU8KiLIQuCJum5vz70hC/preview"
+    },
+    {
+      "id": "023",
+      "numero": 23,
+      "titulo": "Tierra! ¡Gohan! ¡Ambos contra las cuerdas! ¡Date prisa y ven aquí, Goku!",
+      "embedUrl": "https://drive.google.com/file/d/1H5KMuILCzvZIlhK4Dq6awjRK-NKss7yE/preview"
+    },
+    {
+      "id": "024",
+      "numero": 24,
+      "titulo": "Choque! Freezer contra Goku. ¡Este es el resultado de mi entrenamiento!",
+      "embedUrl": "https://mega.nz/embed/uzQlGI7Q#l2PEWQJ9sr6u9z0p4qtWHwmIqPfCcXlXcO2fG-3M-i4"
+    },
+    {
+      "id": "025",
+      "numero": 25,
+      "titulo": "Una batalla a toda máquina! El vengativo Golden Frieza",
+      "embedUrl": "https://drive.google.com/file/d/1R-ZwZMrcbE530TCsNHgELVNIEYa5_o53/preview"
+    },
+    {
+      "id": "026",
+      "numero": 26,
+      "titulo": "Una oportunidad surge en el momento justo! ¡Lanza una contraofensiva, Goku!",
+      "embedUrl": "https://mega.nz/embed/A6Y20YhB#KJaGMAj24FxDN459ttV78Ibv_6n4SdtDoNEYezuXZrk"
+    },
+    {
+      "id": "027",
+      "numero": 27,
+      "titulo": "La Tierra explota?! ¡Un Kamehameha decisivo",
+      "embedUrl": "https://mega.nz/embed/r6Bz1QwT#7F71u4fVwtppcNnKXNgfBr-VcQhXLq_ryP2DqZwfMeg"
+    },
+    {
+      "id": "028",
+      "numero": 28,
+      "titulo": "El destructor del sexto universo! ¡Su nombre es Champa",
+      "embedUrl": "https://drive.google.com/file/d/1NFTd50PDO3apsoNeK_ODQ-XrrRoWq6BS/preview"
+    },
+    {
+      "id": "029",
+      "numero": 29,
+      "titulo": "Combates en marcha! El capitán es alguien más fuerte que Goku",
+      "embedUrl": "https://mega.nz/embed/ZuYyySCR#XiEPbtw30OWiW8nTaubmltDKddXm4g38OlMDTX3R08w"
+    },
+    {
+      "id": "030",
+      "numero": 30,
+      "titulo": "Un ensayo general para la competición! ¿Quiénes son los dos últimos miembros",
+      "embedUrl": "https://mega.nz/embed/nzZjDY6J#51Sbt_ViBAit4GfOZhnXaTt6vgzhSc_EtB5jYpk2bKk"
     }
   ]
 }
