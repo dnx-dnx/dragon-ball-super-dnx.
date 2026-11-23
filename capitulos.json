@@ -1,12 +1,66 @@
 {
   "version": 1,
-  "instrucciones": "Agrega capítulos autorizados. id debe ser único. embedUrl debe ser una URL de inserción permitida por el proveedor, no una página normal.",
+  "instrucciones": "Capítulos 001–010 registrados. Los enlaces embed corresponden a los enlaces MEGA confirmados para cada capítulo.",
   "capitulos": [
     {
       "id": "001",
       "numero": 1,
-      "titulo": "Capítulo de ejemplo — reemplazar por el título correcto",
-      "embedUrl": ""
+      "titulo": "El Premio Mundial de la Paz. ¿Quién se quedará con los 100 millones de Zenis?",
+      "embedUrl": "https://mega.nz/embed/fiZDUazY#pss4X9wuUDL2mG5gv75OQq2IXO2jNOupjHycC39x_c8"
+    },
+    {
+      "id": "002",
+      "numero": 2,
+      "titulo": "¡Vacaciones en un resort! ¿Vegeta irá a un viaje familiar?",
+      "embedUrl": "https://mega.nz/embed/yuAxhQwb#RRW3vPhKcnlpGW3AzOHFjGGNizRQxQ5GOm4RfWAPO3A"
+    },
+    {
+      "id": "003",
+      "numero": 3,
+      "titulo": "¿En dónde está la otra mitad del sueño? ¡Buscando al Super Saiyajin fase Dios!",
+      "embedUrl": "https://mega.nz/embed/OzQDSSxR#J4CX-gSFe-LoiCnvS-UM0r9PclpqgYd5cRVmThwW29U"
+    },
+    {
+      "id": "004",
+      "numero": 4,
+      "titulo": "¡Vamos por las Esferas del Dragón! ¡La pandilla de Pilaf hace de las suyas!",
+      "embedUrl": "https://mega.nz/embed/f7QXHCbR#4sMb8hImjJcAD-bcqUQ2j5HqGhZsuyD6A1C0M5SFnvk"
+    },
+    {
+      "id": "005",
+      "numero": 5,
+      "titulo": "¡La pelea decisiva en el planeta Kaio-sama! ¡Gokú contra el dios de la destrucción, Bills!",
+      "embedUrl": "https://mega.nz/embed/K7BlUYaT#JZnzn2m3sGQpz44y6d3xNobInscEv5MwckK8PHStyQQ"
+    },
+    {
+      "id": "006",
+      "numero": 6,
+      "titulo": "¡No hagas enojar al Dios de la Destrucción! ¡Una emocionante fiesta de cumpleaños!",
+      "embedUrl": "https://mega.nz/embed/zrRnAKJI#MF-MAlTsMxmIJc6BPrBf4FDj9MY7UdKwUfWIzYQe60M"
+    },
+    {
+      "id": "007",
+      "numero": 7,
+      "titulo": "¡Nadie toca a mi Bulma!",
+      "embedUrl": "https://mega.nz/embed/DnJTxYJa#kz6GPLc-4_h2YTK01mHAUovixcJTDCOziUSWsZDbRkU"
+    },
+    {
+      "id": "008",
+      "numero": 8,
+      "titulo": "¡Gokú regresa! ¿La última oportunidad otorgada por el Señor Bills?",
+      "embedUrl": "https://mega.nz/embed/WvJBSAoS#CubkKPITwJIEAYDwTbSzLpbwMIoXfnMYX3FaGIHhDAg"
+    },
+    {
+      "id": "009",
+      "numero": 9,
+      "titulo": "¡Lamento la espera, señor Bills! ¡El Super Saiyajin fase Dios ha aparecido!",
+      "embedUrl": "https://mega.nz/embed/fvAjQAgJ#dkAzi2OLQld1iVnacwiNnZ1CBVD9mMLtNP0UuMds30o"
+    },
+    {
+      "id": "010",
+      "numero": 10,
+      "titulo": "¡Muéstralo, Gokú! ¡El poder del Super Saiyajin Dios!",
+      "embedUrl": "https://mega.nz/embed/fzAhwKoI#JbqFvr2a_Sdoh8OpfiqowtzgWBeMi9IEbsRkahXMO5M"
     }
   ]
 }
