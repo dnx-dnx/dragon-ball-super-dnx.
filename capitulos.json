@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "instrucciones": "Agrega capítulos autorizados. id debe ser único. embedUrl debe ser una URL de inserción permitida por el proveedor, no una página normal.",
+  "capitulos": [
+    {
+      "id": "001",
+      "numero": 1,
+      "titulo": "Capítulo de ejemplo — reemplazar por el título correcto",
+      "embedUrl": ""
+    }
+  ]
+}

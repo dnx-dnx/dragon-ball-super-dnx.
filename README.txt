@@ -1,0 +1,1 @@
+VERSION FACIL PARA ANDROID: extrae este ZIP y sube TODOS los archivos de esta carpeta a la raiz del repositorio GitHub. No necesitas crear carpetas assets ni data. Conserva exactamente los nombres de archivo. Luego haz Commit changes.
