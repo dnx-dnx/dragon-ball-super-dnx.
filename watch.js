@@ -1,6 +1,72 @@
-const params=new URLSearchParams(location.search);const id=params.get('id');const title=document.getElementById('episode-title'),number=document.getElementById('episode-number'),frame=document.getElementById('mega-player'),placeholder=document.getElementById('player-placeholder'),note=document.getElementById('player-note');
-fetch('capitulos.json').then(r=>r.json()).then(data=>{const ep=(data.capitulos||[]).find(x=>String(x.id)===String(id));if(!ep){title.textContent='Capítulo no encontrado';number.textContent='El identificador no existe en el catálogo.';placeholder.innerHTML='<p>Vuelve al catálogo y selecciona un capítulo disponible.</p>';return}
-title.textContent=ep.titulo;number.textContent='CAPÍTULO '+String(ep.numero).padStart(3,'0');document.title=number.textContent+' | '+ep.titulo+' | Dragon Ball Super Latino by DNX';
-if(!ep.embedUrl){placeholder.innerHTML='<div class="empty-player">Este capítulo todavía no tiene un reproductor configurado.</div>';note.textContent='El administrador debe agregar un enlace de inserción autorizado en capitulos.json.';return}
-try{const u=new URL(ep.embedUrl);if(!['mega.nz','www.mega.nz'].includes(u.hostname)){throw Error('Proveedor no admitido en esta versión')}if(!u.pathname.startsWith('/embed/'))throw Error('Se requiere una URL de inserción /embed/ de MEGA');frame.src=u.href;frame.hidden=false;placeholder.hidden=true;note.textContent='Si el reproductor solicita una acción, sigue las indicaciones de MEGA.'}catch(e){placeholder.innerHTML='<div class="empty-player">El enlace del reproductor no tiene un formato válido.</div>';note.textContent=e.message}
-}).catch(()=>{title.textContent='No se pudo cargar el capítulo';placeholder.innerHTML='<p>Comprueba el archivo de catálogo.</p>'});
+(() => {
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+
+  const title = document.getElementById('episode-title');
+  const number = document.getElementById('episode-number');
+  const frame = document.getElementById('mega-player');
+  const placeholder = document.getElementById('player-placeholder');
+  const note = document.getElementById('player-note');
+
+  function showError(message, detail = '') {
+    title.textContent = message;
+    placeholder.hidden = false;
+    placeholder.innerHTML = '<div class="empty-player"></div>';
+    placeholder.querySelector('.empty-player').textContent =
+      detail || 'Vuelve al catálogo y selecciona un capítulo disponible.';
+    frame.hidden = true;
+    frame.removeAttribute('src');
+  }
+
+  fetch('capitulos.json')
+    .then(response => {
+      if (!response.ok) throw new Error('No se pudo cargar capitulos.json');
+      return response.json();
+    })
+    .then(data => {
+      const episodes = Array.isArray(data.capitulos) ? data.capitulos : [];
+      const ep = episodes.find(item => String(item.id) === String(id));
+
+      if (!ep) {
+        showError('Capítulo no encontrado');
+        number.textContent = 'El identificador no existe en el catálogo.';
+        return;
+      }
+
+      title.textContent = ep.titulo;
+      number.textContent = 'CAPÍTULO ' + String(ep.numero).padStart(3, '0');
+      document.title = number.textContent + ' | ' + ep.titulo + ' | Dragon Ball Super Latino by DNX';
+
+      if (!ep.embedUrl) {
+        showError('Reproductor no configurado', 'Este capítulo todavía no tiene un enlace de reproducción.');
+        return;
+      }
+
+      try {
+        const url = new URL(ep.embedUrl);
+        const host = url.hostname.toLowerCase();
+        let providerNote = '';
+
+        if ((host === 'mega.nz' || host === 'www.mega.nz') &&
+            url.pathname.startsWith('/embed/')) {
+          providerNote = 'Reproductor de MEGA. Si solicita una acción, sigue las indicaciones del proveedor.';
+        } else if ((host === 'drive.google.com' || host === 'www.drive.google.com') &&
+                   /^\/file\/d\/[A-Za-z0-9_-]+\/preview\/?$/.test(url.pathname)) {
+          providerNote = 'Reproductor de Google Drive. El archivo debe tener permiso de acceso para quienes tengan el enlace.';
+        } else {
+          throw new Error('El enlace no corresponde a un formato de inserción admitido de MEGA o Google Drive.');
+        }
+
+        frame.src = url.href;
+        frame.hidden = false;
+        placeholder.hidden = true;
+        note.textContent = providerNote;
+      } catch (error) {
+        showError('Enlace de reproducción no válido', error.message);
+        note.textContent = '';
+      }
+    })
+    .catch(() => {
+      showError('No se pudo cargar el capítulo', 'Comprueba que capitulos.json esté publicado en la raíz del repositorio.');
+    });
+})();

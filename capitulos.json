@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "instrucciones": "Capítulos 001–010 registrados. Los enlaces embed corresponden a los enlaces MEGA confirmados para cada capítulo.",
+  "version": 2,
+  "instrucciones": "Catálogo de capítulos 001–020. MEGA usa enlaces /embed/ y Google Drive usa enlaces /preview/.",
   "capitulos": [
     {
       "id": "001",
@@ -61,6 +61,66 @@
       "numero": 10,
       "titulo": "¡Muéstralo, Gokú! ¡El poder del Super Saiyajin Dios!",
       "embedUrl": "https://mega.nz/embed/fzAhwKoI#JbqFvr2a_Sdoh8OpfiqowtzgWBeMi9IEbsRkahXMO5M"
+    },
+    {
+      "id": "011",
+      "numero": 11,
+      "titulo": "Continue, señor Bills",
+      "embedUrl": "https://mega.nz/embed/7qYBVCzZ#Z7AL8VhSj8HkekdSe6JiXxc0JRom_2onWgZ6QF2X-yI"
+    },
+    {
+      "id": "012",
+      "numero": 12,
+      "titulo": "El universo se hará añicos",
+      "embedUrl": "https://mega.nz/embed/miI3FKab#WGviH478NUq8R2vCmzpF1DH0nLt1dyD122Dz6Os9SVQ"
+    },
+    {
+      "id": "013",
+      "numero": 13,
+      "titulo": "Goku supera al Saiyan god",
+      "embedUrl": "https://mega.nz/embed/f44H0S5Y#5A6Bhrfr_UIXbV6WKUf0C-CpLUDzOrXJbgz-AtLFzCw"
+    },
+    {
+      "id": "014",
+      "numero": 14,
+      "titulo": "Este es todo el poder que tengo, un acuerdo entre dioses",
+      "embedUrl": "https://mega.nz/embed/K9BRXbRT#RgpP5BJi9eOc7o3ukujHH1fd6g9Zjf-gnWP-tgkBbyI"
+    },
+    {
+      "id": "015",
+      "numero": 15,
+      "titulo": "Valiente señor Satán, obra un milagro! ¡Un desafío del espacio exterior!",
+      "embedUrl": "https://mega.nz/embed/DmYRkKBQ#OovmCO8bhgLyUgeY6B_SRzR5BkquejTk2bsWibzAfH8"
+    },
+    {
+      "id": "016",
+      "numero": 16,
+      "titulo": "¿Vegeta se convierte en estudiante?! ¡Conquista a Whis!",
+      "embedUrl": "https://mega.nz/embed/AiIG1C7T#oTxHCxsujaXv2y_TkAllk6hCxWB9sbVPQFwrXsXA6AQ"
+    },
+    {
+      "id": "017",
+      "numero": 17,
+      "titulo": "¡Pan ha nacido! ¿Y Goku se embarca en un viaje de entrenamiento?",
+      "embedUrl": "https://mega.nz/embed/7qABQSKT#HVe2VypTJan84wyDGKDo1ALXvCulRoszu4xZ611Ltag"
+    },
+    {
+      "id": "018",
+      "numero": 18,
+      "titulo": "¡Yo también estoy aquí! Comienza el entrenamiento en el mundo de Beerus",
+      "embedUrl": "https://mega.nz/embed/97QWGAAZ#DrXCLg3LtBNWxmLDMbC9jKdNUuTLvyH9Dcmxl-0kiS4"
+    },
+    {
+      "id": "019",
+      "numero": 19,
+      "titulo": "¡Desesperación renovada! ¡El regreso del malvado emperador, Freezer!",
+      "embedUrl": "https://drive.google.com/file/d/1QGqUqSTjhWbUVXqqXPraTgenVIoELJvn/preview"
+    },
+    {
+      "id": "020",
+      "numero": 20,
+      "titulo": "Una advertencia de Jaco! Freezer y 1000 soldados se acercan.",
+      "embedUrl": "https://mega.nz/embed/t6QwEK6b#Ndh_3JrwZZnDJYBk8x3HtmdHyfGJSghmCo6r6e0uDQc"
     }
   ]
 }
