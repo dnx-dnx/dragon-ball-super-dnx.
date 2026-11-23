@@ -35,3 +35,9 @@ https://dnx-dnx.github.io/dragon-ball-super-dnx./
 EJEMPLOS
 Capítulo 001: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=001
 Capítulo 020: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=020
+
+
+IMAGEN DE FONDO
+- Se agregó fondo-goku.jpg como imagen de fondo del sitio.
+- Mantén fondo-goku.jpg en la raíz del repositorio junto a style.css.
+- No cambies su nombre ni lo muevas a otra carpeta.
