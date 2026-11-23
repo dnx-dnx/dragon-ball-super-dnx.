@@ -28,28 +28,43 @@ function normalizeText(value) {
 
 function render(items) {
   list.innerHTML = '';
-
   document.getElementById('count').textContent =
     items.length + (items.length === 1 ? ' capítulo' : ' capítulos');
-
   document.getElementById('empty').hidden = items.length !== 0;
 
   items.forEach(ep => {
     const link = document.createElement('a');
     link.className = 'episode-card';
     link.href = 'ver.html?id=' + encodeURIComponent(ep.id);
+    link.setAttribute('aria-label', 'Abrir capítulo ' + String(ep.numero ?? ep.id).padStart(3, '0') + ': ' + (ep.titulo ?? ''));
 
-    link.innerHTML =
-      '<span class="episode-number"></span>' +
-      '<span class="episode-details"><strong></strong><small></small></span>' +
-      '<span class="episode-arrow">↗</span>';
+    const imageWrap = document.createElement('span');
+    imageWrap.className = 'episode-thumb-wrap';
+    const image = document.createElement('img');
+    image.className = 'episode-thumb';
+    image.src = ep.thumbnail || '';
+    image.alt = 'Escena del capítulo ' + String(ep.numero ?? ep.id).padStart(3, '0');
+    image.loading = 'lazy';
+    image.decoding = 'async';
+    image.onerror = () => { imageWrap.classList.add('thumbnail-missing'); image.remove(); };
+    imageWrap.appendChild(image);
 
-    link.querySelector('.episode-number').textContent =
-      String(ep.numero ?? ep.id).padStart(3, '0');
+    const number = document.createElement('span');
+    number.className = 'episode-number';
+    number.textContent = String(ep.numero ?? ep.id).padStart(3, '0');
 
-    link.querySelector('strong').textContent = ep.titulo ?? '';
-    link.querySelector('small').textContent = 'Abrir reproductor';
+    const details = document.createElement('span');
+    details.className = 'episode-details';
+    const title = document.createElement('strong');
+    title.textContent = ep.titulo ?? '';
+    const subtitle = document.createElement('small');
+    subtitle.textContent = 'Abrir reproductor';
+    details.append(title, subtitle);
 
+    const arrow = document.createElement('span');
+    arrow.className = 'episode-arrow';
+    arrow.textContent = '↗';
+    link.append(imageWrap, number, details, arrow);
     list.appendChild(link);
   });
 }

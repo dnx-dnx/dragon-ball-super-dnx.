@@ -1,186 +1,216 @@
 {
   "version": 2,
-  "instrucciones": "Catálogo de capítulos 001–030. MEGA usa enlaces /embed/ y Google Drive usa enlaces /preview/.",
+  "instrucciones": "Catálogo de capítulos 001–030. Cada capítulo incluye thumbnail 16:9. MEGA usa /embed/ y Google Drive usa /preview/.",
   "capitulos": [
     {
       "id": "001",
       "numero": 1,
       "titulo": "El Premio Mundial de la Paz. ¿Quién se quedará con los 100 millones de Zenis?",
-      "embedUrl": "https://mega.nz/embed/fiZDUazY#pss4X9wuUDL2mG5gv75OQq2IXO2jNOupjHycC39x_c8"
+      "embedUrl": "https://mega.nz/embed/fiZDUazY#pss4X9wuUDL2mG5gv75OQq2IXO2jNOupjHycC39x_c8",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/mQwqbaoxaEJdi5xNMnWpt02Y6Bd.jpg?d=640x360&q=80"
     },
     {
       "id": "002",
       "numero": 2,
       "titulo": "¡Vacaciones en un resort! ¿Vegeta irá a un viaje familiar?",
-      "embedUrl": "https://mega.nz/embed/yuAxhQwb#RRW3vPhKcnlpGW3AzOHFjGGNizRQxQ5GOm4RfWAPO3A"
+      "embedUrl": "https://mega.nz/embed/yuAxhQwb#RRW3vPhKcnlpGW3AzOHFjGGNizRQxQ5GOm4RfWAPO3A",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/6D19DLwM0PG1ECTnWvItyYu1DVV.jpg?d=640x360&q=80"
     },
     {
       "id": "003",
       "numero": 3,
       "titulo": "¿En dónde está la otra mitad del sueño? ¡Buscando al Super Saiyajin fase Dios!",
-      "embedUrl": "https://mega.nz/embed/OzQDSSxR#J4CX-gSFe-LoiCnvS-UM0r9PclpqgYd5cRVmThwW29U"
+      "embedUrl": "https://mega.nz/embed/OzQDSSxR#J4CX-gSFe-LoiCnvS-UM0r9PclpqgYd5cRVmThwW29U",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/i2XklGnEBERZ3JPV3219vCPhjRT.jpg?d=640x360&q=80"
     },
     {
       "id": "004",
       "numero": 4,
       "titulo": "¡Vamos por las Esferas del Dragón! ¡La pandilla de Pilaf hace de las suyas!",
-      "embedUrl": "https://mega.nz/embed/f7QXHCbR#4sMb8hImjJcAD-bcqUQ2j5HqGhZsuyD6A1C0M5SFnvk"
+      "embedUrl": "https://mega.nz/embed/f7QXHCbR#4sMb8hImjJcAD-bcqUQ2j5HqGhZsuyD6A1C0M5SFnvk",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/4wdZEIzYmQKMkN9zjU3VLPMaBmY.jpg?d=640x360&q=80"
     },
     {
       "id": "005",
       "numero": 5,
       "titulo": "¡La pelea decisiva en el planeta Kaio-sama! ¡Gokú contra el dios de la destrucción, Bills!",
-      "embedUrl": "https://mega.nz/embed/K7BlUYaT#JZnzn2m3sGQpz44y6d3xNobInscEv5MwckK8PHStyQQ"
+      "embedUrl": "https://mega.nz/embed/K7BlUYaT#JZnzn2m3sGQpz44y6d3xNobInscEv5MwckK8PHStyQQ",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/x7zkqoFkEs4llfNW6iturv2b7kv.jpg?d=640x360&q=80"
     },
     {
       "id": "006",
       "numero": 6,
       "titulo": "¡No hagas enojar al Dios de la Destrucción! ¡Una emocionante fiesta de cumpleaños!",
-      "embedUrl": "https://mega.nz/embed/zrRnAKJI#MF-MAlTsMxmIJc6BPrBf4FDj9MY7UdKwUfWIzYQe60M"
+      "embedUrl": "https://mega.nz/embed/zrRnAKJI#MF-MAlTsMxmIJc6BPrBf4FDj9MY7UdKwUfWIzYQe60M",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/nVyscQsYV5mfTfiFhzkZeT5ewmz.jpg?d=640x360&q=80"
     },
     {
       "id": "007",
       "numero": 7,
       "titulo": "¡Nadie toca a mi Bulma!",
-      "embedUrl": "https://mega.nz/embed/DnJTxYJa#kz6GPLc-4_h2YTK01mHAUovixcJTDCOziUSWsZDbRkU"
+      "embedUrl": "https://mega.nz/embed/DnJTxYJa#kz6GPLc-4_h2YTK01mHAUovixcJTDCOziUSWsZDbRkU",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/6BFIhumOY0SGhyHLFOiiowSKrAZ.jpg?d=640x360&q=80"
     },
     {
       "id": "008",
       "numero": 8,
       "titulo": "¡Gokú regresa! ¿La última oportunidad otorgada por el Señor Bills?",
-      "embedUrl": "https://mega.nz/embed/WvJBSAoS#CubkKPITwJIEAYDwTbSzLpbwMIoXfnMYX3FaGIHhDAg"
+      "embedUrl": "https://mega.nz/embed/WvJBSAoS#CubkKPITwJIEAYDwTbSzLpbwMIoXfnMYX3FaGIHhDAg",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/yjNrQ5SuNrrlIBQZ1ZG0qsOrFX5.jpg?d=640x360&q=80"
     },
     {
       "id": "009",
       "numero": 9,
       "titulo": "¡Lamento la espera, señor Bills! ¡El Super Saiyajin fase Dios ha aparecido!",
-      "embedUrl": "https://mega.nz/embed/fvAjQAgJ#dkAzi2OLQld1iVnacwiNnZ1CBVD9mMLtNP0UuMds30o"
+      "embedUrl": "https://mega.nz/embed/fvAjQAgJ#dkAzi2OLQld1iVnacwiNnZ1CBVD9mMLtNP0UuMds30o",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/dtPbhwpbZcjLOahkKj2QXkeaUyd.jpg?d=640x360&q=80"
     },
     {
       "id": "010",
       "numero": 10,
       "titulo": "¡Muéstralo, Gokú! ¡El poder del Super Saiyajin Dios!",
-      "embedUrl": "https://mega.nz/embed/fzAhwKoI#JbqFvr2a_Sdoh8OpfiqowtzgWBeMi9IEbsRkahXMO5M"
+      "embedUrl": "https://mega.nz/embed/fzAhwKoI#JbqFvr2a_Sdoh8OpfiqowtzgWBeMi9IEbsRkahXMO5M",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/cyAEMV5X4N6cp5PTlqvAI8CBBrW.jpg?d=640x360&q=80"
     },
     {
       "id": "011",
       "numero": 11,
       "titulo": "Continue, señor Bills",
-      "embedUrl": "https://mega.nz/embed/7qYBVCzZ#Z7AL8VhSj8HkekdSe6JiXxc0JRom_2onWgZ6QF2X-yI"
+      "embedUrl": "https://mega.nz/embed/7qYBVCzZ#Z7AL8VhSj8HkekdSe6JiXxc0JRom_2onWgZ6QF2X-yI",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/icjxZcyrPmDBcdO7jZWzLluxvzE.jpg?d=640x360&q=80"
     },
     {
       "id": "012",
       "numero": 12,
       "titulo": "El universo se hará añicos",
-      "embedUrl": "https://mega.nz/embed/miI3FKab#WGviH478NUq8R2vCmzpF1DH0nLt1dyD122Dz6Os9SVQ"
+      "embedUrl": "https://mega.nz/embed/miI3FKab#WGviH478NUq8R2vCmzpF1DH0nLt1dyD122Dz6Os9SVQ",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/9lpPjLqQFIzPyH0s1YFFOdCCRhZ.jpg?d=640x360&q=80"
     },
     {
       "id": "013",
       "numero": 13,
       "titulo": "Goku supera al Saiyan god",
-      "embedUrl": "https://mega.nz/embed/f44H0S5Y#5A6Bhrfr_UIXbV6WKUf0C-CpLUDzOrXJbgz-AtLFzCw"
+      "embedUrl": "https://mega.nz/embed/f44H0S5Y#5A6Bhrfr_UIXbV6WKUf0C-CpLUDzOrXJbgz-AtLFzCw",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/elOCxfoseAS2oK5WUo7JWBBn5dy.jpg?d=640x360&q=80"
     },
     {
       "id": "014",
       "numero": 14,
       "titulo": "Este es todo el poder que tengo, un acuerdo entre dioses",
-      "embedUrl": "https://mega.nz/embed/K9BRXbRT#RgpP5BJi9eOc7o3ukujHH1fd6g9Zjf-gnWP-tgkBbyI"
+      "embedUrl": "https://mega.nz/embed/K9BRXbRT#RgpP5BJi9eOc7o3ukujHH1fd6g9Zjf-gnWP-tgkBbyI",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/hKZdJJqgW7Ori1JxllbbiWn06Iz.jpg?d=640x360&q=80"
     },
     {
       "id": "015",
       "numero": 15,
       "titulo": "Valiente señor Satán, obra un milagro! ¡Un desafío del espacio exterior!",
-      "embedUrl": "https://mega.nz/embed/DmYRkKBQ#OovmCO8bhgLyUgeY6B_SRzR5BkquejTk2bsWibzAfH8"
+      "embedUrl": "https://mega.nz/embed/DmYRkKBQ#OovmCO8bhgLyUgeY6B_SRzR5BkquejTk2bsWibzAfH8",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/aKvmBzCMpwei00NpsgzznpC12H5.jpg?d=640x360&q=80"
     },
     {
       "id": "016",
       "numero": 16,
       "titulo": "¿Vegeta se convierte en estudiante?! ¡Conquista a Whis!",
-      "embedUrl": "https://mega.nz/embed/AiIG1C7T#oTxHCxsujaXv2y_TkAllk6hCxWB9sbVPQFwrXsXA6AQ"
+      "embedUrl": "https://mega.nz/embed/AiIG1C7T#oTxHCxsujaXv2y_TkAllk6hCxWB9sbVPQFwrXsXA6AQ",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/tyI3h1rpfWMuouAkTeSTTXDEfzj.jpg?d=640x360&q=80"
     },
     {
       "id": "017",
       "numero": 17,
       "titulo": "¡Pan ha nacido! ¿Y Goku se embarca en un viaje de entrenamiento?",
-      "embedUrl": "https://mega.nz/embed/7qABQSKT#HVe2VypTJan84wyDGKDo1ALXvCulRoszu4xZ611Ltag"
+      "embedUrl": "https://mega.nz/embed/7qABQSKT#HVe2VypTJan84wyDGKDo1ALXvCulRoszu4xZ611Ltag",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/cNKxcaYc3u0JSeAxBLL7yfe9yHC.jpg?d=640x360&q=80"
     },
     {
       "id": "018",
       "numero": 18,
       "titulo": "¡Yo también estoy aquí! Comienza el entrenamiento en el mundo de Beerus",
-      "embedUrl": "https://mega.nz/embed/97QWGAAZ#DrXCLg3LtBNWxmLDMbC9jKdNUuTLvyH9Dcmxl-0kiS4"
+      "embedUrl": "https://mega.nz/embed/97QWGAAZ#DrXCLg3LtBNWxmLDMbC9jKdNUuTLvyH9Dcmxl-0kiS4",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/luevT7XUlVy77XZtEvkNqTizO7h.jpg?d=640x360&q=80"
     },
     {
       "id": "019",
       "numero": 19,
       "titulo": "¡Desesperación renovada! ¡El regreso del malvado emperador, Freezer!",
-      "embedUrl": "https://drive.google.com/file/d/1QGqUqSTjhWbUVXqqXPraTgenVIoELJvn/preview"
+      "embedUrl": "https://drive.google.com/file/d/1QGqUqSTjhWbUVXqqXPraTgenVIoELJvn/preview",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/9PsRRv0o9GvG5iVal6nCEPliLKU.jpg?d=640x360&q=80"
     },
     {
       "id": "020",
       "numero": 20,
       "titulo": "Una advertencia de Jaco! Freezer y 1000 soldados se acercan.",
-      "embedUrl": "https://mega.nz/embed/t6QwEK6b#Ndh_3JrwZZnDJYBk8x3HtmdHyfGJSghmCo6r6e0uDQc"
+      "embedUrl": "https://mega.nz/embed/t6QwEK6b#Ndh_3JrwZZnDJYBk8x3HtmdHyfGJSghmCo6r6e0uDQc",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/hXYN9PF8kH52GLmYiXTOeO0lPmT.jpg?d=640x360&q=80"
     },
     {
       "id": "021",
       "numero": 21,
       "titulo": "El comienzo de la venganza! ¡La malicia de las fuerzas de Freezer ataca a Gohan!",
-      "embedUrl": "https://mega.nz/embed/JmJWQYTR#45Mu6OeHy30q0CRd0NrqKBjs8lYGZM3BrsACblL4izU"
+      "embedUrl": "https://mega.nz/embed/JmJWQYTR#45Mu6OeHy30q0CRd0NrqKBjs8lYGZM3BrsACblL4izU",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/wmZnPHze73TQmjccVXwkrf56B3B.jpg?d=640x360&q=80"
     },
     {
       "id": "022",
       "numero": 22,
       "titulo": "Cambio! ¡Un regreso inesperado! ¡Su nombre es Ginyu",
-      "embedUrl": "https://drive.google.com/file/d/1IZsWnlrYbY6EiU8KiLIQuCJum5vz70hC/preview"
+      "embedUrl": "https://drive.google.com/file/d/1IZsWnlrYbY6EiU8KiLIQuCJum5vz70hC/preview",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/HVxCcF8R1foZpCBX0NZp8Lit7.jpg?d=640x360&q=80"
     },
     {
       "id": "023",
       "numero": 23,
       "titulo": "Tierra! ¡Gohan! ¡Ambos contra las cuerdas! ¡Date prisa y ven aquí, Goku!",
-      "embedUrl": "https://drive.google.com/file/d/1H5KMuILCzvZIlhK4Dq6awjRK-NKss7yE/preview"
+      "embedUrl": "https://drive.google.com/file/d/1H5KMuILCzvZIlhK4Dq6awjRK-NKss7yE/preview",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/kBfBPoeyI1TtS6DdmhdBkiMTCU5.jpg?d=640x360&q=80"
     },
     {
       "id": "024",
       "numero": 24,
       "titulo": "Choque! Freezer contra Goku. ¡Este es el resultado de mi entrenamiento!",
-      "embedUrl": "https://mega.nz/embed/uzQlGI7Q#l2PEWQJ9sr6u9z0p4qtWHwmIqPfCcXlXcO2fG-3M-i4"
+      "embedUrl": "https://mega.nz/embed/uzQlGI7Q#l2PEWQJ9sr6u9z0p4qtWHwmIqPfCcXlXcO2fG-3M-i4",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/jXHEpanuPhhbROwpDBJ1XTggLGi.jpg?d=640x360&q=80"
     },
     {
       "id": "025",
       "numero": 25,
       "titulo": "Una batalla a toda máquina! El vengativo Golden Frieza",
-      "embedUrl": "https://drive.google.com/file/d/1R-ZwZMrcbE530TCsNHgELVNIEYa5_o53/preview"
+      "embedUrl": "https://drive.google.com/file/d/1R-ZwZMrcbE530TCsNHgELVNIEYa5_o53/preview",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/fsQQCwnR9uvrvX7btNfgkD49UeZ.jpg?d=640x360&q=80"
     },
     {
       "id": "026",
       "numero": 26,
       "titulo": "Una oportunidad surge en el momento justo! ¡Lanza una contraofensiva, Goku!",
-      "embedUrl": "https://mega.nz/embed/A6Y20YhB#KJaGMAj24FxDN459ttV78Ibv_6n4SdtDoNEYezuXZrk"
+      "embedUrl": "https://mega.nz/embed/A6Y20YhB#KJaGMAj24FxDN459ttV78Ibv_6n4SdtDoNEYezuXZrk",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/tagNMQQ8OcxthDA19Y7TsxARVrx.jpg?d=640x360&q=80"
     },
     {
       "id": "027",
       "numero": 27,
       "titulo": "La Tierra explota?! ¡Un Kamehameha decisivo",
-      "embedUrl": "https://mega.nz/embed/r6Bz1QwT#7F71u4fVwtppcNnKXNgfBr-VcQhXLq_ryP2DqZwfMeg"
+      "embedUrl": "https://mega.nz/embed/r6Bz1QwT#7F71u4fVwtppcNnKXNgfBr-VcQhXLq_ryP2DqZwfMeg",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/oDP92xVoaiUJwP2KSzZgcrT6mAD.jpg?d=640x360&q=80"
     },
     {
       "id": "028",
       "numero": 28,
       "titulo": "El destructor del sexto universo! ¡Su nombre es Champa",
-      "embedUrl": "https://drive.google.com/file/d/1NFTd50PDO3apsoNeK_ODQ-XrrRoWq6BS/preview"
+      "embedUrl": "https://drive.google.com/file/d/1NFTd50PDO3apsoNeK_ODQ-XrrRoWq6BS/preview",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/zMGzZJUnDK2ePJxKzSc7e1D2Qbg.jpg?d=640x360&q=80"
     },
     {
       "id": "029",
       "numero": 29,
       "titulo": "Combates en marcha! El capitán es alguien más fuerte que Goku",
-      "embedUrl": "https://mega.nz/embed/ZuYyySCR#XiEPbtw30OWiW8nTaubmltDKddXm4g38OlMDTX3R08w"
+      "embedUrl": "https://mega.nz/embed/ZuYyySCR#XiEPbtw30OWiW8nTaubmltDKddXm4g38OlMDTX3R08w",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/jhuz1PyGYM8BVwbOoUT8sG6NSfF.jpg?d=640x360&q=80"
     },
     {
       "id": "030",
       "numero": 30,
       "titulo": "Un ensayo general para la competición! ¿Quiénes son los dos últimos miembros",
-      "embedUrl": "https://mega.nz/embed/nzZjDY6J#51Sbt_ViBAit4GfOZhnXaTt6vgzhSc_EtB5jYpk2bKk"
+      "embedUrl": "https://mega.nz/embed/nzZjDY6J#51Sbt_ViBAit4GfOZhnXaTt6vgzhSc_EtB5jYpk2bKk",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/53lkGLr33Qr4P3pOQc6bVg7rr1j.jpg?d=640x360&q=80"
     }
   ]
 }
