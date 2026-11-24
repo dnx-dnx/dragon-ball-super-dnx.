@@ -11,10 +11,13 @@ capitulos.json
 README.txt
 
 ACTUALIZACIONES
-- Catálogo integrado con los capítulos 001–020.
+- Catálogo integrado con los capítulos 001–034.
 - Buscador numérico exacto y búsqueda por título sin distinguir tildes ni mayúsculas.
 - Reproductor compatible con enlaces de inserción MEGA (/embed/).
-- Reproductor compatible con Google Drive (/file/d/ID/preview), usado por el capítulo 019.
+- Reproductor compatible con Google Drive (/file/d/ID/preview).
+- El capítulo 032 utiliza Google Drive y cuenta con miniatura 16:9 individual.
+- El capítulo 033 utiliza MEGA (/embed/) y cuenta con miniatura 16:9 individual.
+- El capítulo 034 utiliza MEGA (/embed/) y cuenta con miniatura 16:9 individual.
 - Se conserva el diseño y la navegación del sitio.
 
 INSTALACIÓN DESDE ANDROID
@@ -27,17 +30,28 @@ INSTALACIÓN DESDE ANDROID
 No crees carpetas adicionales. Los archivos deben quedar al mismo nivel.
 
 IMPORTANTE SOBRE GOOGLE DRIVE
-El capítulo 019 solo podrá reproducirse si el archivo de Drive permite acceso a las personas que tengan el enlace. En Google Drive, configura Compartir > Acceso general > Cualquier persona que tenga el enlace > Lector.
+Los capítulos alojados en Drive solo podrán reproducirse si cada archivo permite acceso a las personas que tengan el enlace. En Google Drive, configura Compartir > Acceso general > Cualquier persona que tenga el enlace > Lector.
 
 SITIO
 https://dnx-dnx.github.io/dragon-ball-super-dnx./
 
 EJEMPLOS
 Capítulo 001: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=001
-Capítulo 020: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=020
-
+Capítulo 032: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=032
+Capítulo 033: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=033
+Capítulo 034: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=034
+Capítulo 035: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=035
 
 IMAGEN DE FONDO
-- Se agregó fondo-goku.jpg como imagen de fondo del sitio.
-- Mantén fondo-goku.jpg en la raíz del repositorio junto a style.css.
-- No cambies su nombre ni lo muevas a otra carpeta.
+- style.css hace referencia a fondo-goku.jpg.
+- Si ya utilizas esa imagen en el repositorio, mantenla en la raíz junto a style.css.
+
+Capítulo 036: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=036
+
+Capítulo 037: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=037
+
+Capítulo 038: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=038
+
+Capítulo 039: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=039
+
+Capítulo 040: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=040

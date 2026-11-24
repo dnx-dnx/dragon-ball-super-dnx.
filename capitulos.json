@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "instrucciones": "Catálogo de capítulos 001–031. MEGA usa /embed/ y Google Drive usa /preview/. Cada capítulo incluye miniatura 16:9.",
+  "instrucciones": "Catálogo de capítulos 001–040. MEGA usa /embed/ y Google Drive usa /preview/. Cada capítulo incluye miniatura 16:9.",
   "capitulos": [
     {
       "id": "001",
@@ -218,6 +218,69 @@
       "titulo": "Voy a ver al Maestro Zuno! ¡Averigua dónde están las Super Esferas del Dragón!",
       "embedUrl": "https://drive.google.com/file/d/1FF7S_9Q-iG52AHo1JV3y5Pdvp3aVJfiO/preview",
       "thumbnail": "https://image.tmdb.org/t/p/original/uhDmyKSrRkL9H73EACoDmHP02DH.jpg"
+    },
+    {
+      "id": "032",
+      "numero": 32,
+      "titulo": "Comienzan los partidos! ¡Todos nos vamos al \"Planeta sin nombre\"",
+      "embedUrl": "https://drive.google.com/file/d/1XW99PPTb60iLfM9HXvglN6NmAZsFu-F4/preview",
+      "thumbnail": "https://cdn.moviefone.com/image-assets/62715/lSPgr3pQZNGgSo8MhLep3Mz03vA.jpg?d=640x360&q=80"
+    },
+    {
+      "id": "033",
+      "numero": 33,
+      "titulo": "Sorpresa, sexto universo! ¡Este es Goku Super Saiyajin!",
+      "embedUrl": "https://mega.nz/embed/Y2Aywa5L#QC6xmA_k2_nwTNlfHOCiYd2de0DXGfhkUofoeXlpkQ8",
+      "thumbnail": "https://image-cf.kddi-video.com/b82/b82171d79168e5ec0dab5a12874b0c16/fit-background-transparent/1776751602/1080x608.png"
+    },
+    {
+      "id": "034",
+      "numero": 34,
+      "titulo": "Piccolo contra Frost! ¡Apuesta todo con el cañón de rayos especiales",
+      "embedUrl": "https://mega.nz/embed/KmYzwaqR#k1H_BKbD6hMwhGfInGkk5kE0WH-HLEJTfaGGeWoQTM8",
+      "thumbnail": "https://image-cf.kddi-video.com/a4d/a4d058a72fc2cdf894ae0c97b830e7f8/fit-background-transparent/1776751602/1080x608.png"
+    },
+    {
+      "id": "035",
+      "numero": 35,
+      "titulo": "Convierte tu ira en fuerza! La batalla a toda máquina de Vegeta",
+      "embedUrl": "https://mega.nz/embed/vrQHmYKJ#aDe2jVuCagXSY27S_OWjcvW4Vmj8e5R5iWOOipfHpc4",
+      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160323/20160323175458.jpg"
+    },
+    {
+      "id": "036",
+      "numero": 36,
+      "titulo": "Una batalla inesperadamente cuesta arriba! ¡La gran explosión de furia de Vegeta",
+      "embedUrl": "https://mega.nz/embed/u3IVkaaQ#1-dFLvlcS8lXkX9T3W-VlbmwOEREssblWAOaCmS3EtE",
+      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160330/20160330223508.jpg"
+    },
+    {
+      "id": "037",
+      "numero": 37,
+      "titulo": "No olvides tu orgullo saiyajin! Vegeta contra el saiyajin del sexto universo",
+      "embedUrl": "https://drive.google.com/file/d/1FYPfLyKjts-XKCHA8AexdMzvyffaK_AA/preview",
+      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160406/20160406224228.jpg"
+    },
+    {
+      "id": "038",
+      "numero": 38,
+      "titulo": "El guerrero más poderoso del 6º Universo! ¡Enfréntate al asesino!",
+      "embedUrl": "https://mega.nz/embed/JiYWja5Q#e3riAhjX0wyMOO0LQHs8JoE8dHk-2yUrVJjul8umgmg",
+      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160413/20160413222905.jpg"
+    },
+    {
+      "id": "039",
+      "numero": 39,
+      "titulo": "Un Counter-Strike con salto temporal mejorado? ¡Aquí llega el nuevo movimiento de Goku!",
+      "embedUrl": "https://drive.google.com/file/d/1ENPATYPFrFQr8gvZv7JBqUMhQLrXjBs-/preview",
+      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160420/20160420223536.jpg"
+    },
+    {
+      "id": "040",
+      "numero": 40,
+      "titulo": "Por fin se ha tomado una decisión! ¿Ganará Beerus? ¿O será Champa",
+      "embedUrl": "https://drive.google.com/file/d/16-axFneFlb4BGEGxiLWeJM-PipK6BVAF/preview",
+      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160427/20160427223519.jpg"
     }
   ]
 }
