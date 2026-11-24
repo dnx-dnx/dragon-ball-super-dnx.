@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "instrucciones": "Catálogo de capítulos 001–040. MEGA usa /embed/ y Google Drive usa /preview/. Cada capítulo incluye miniatura 16:9.",
+  "instrucciones": "Catálogo de capítulos 001–040. Miniaturas corregidas para los capítulos 036–040. MEGA usa /embed/ y Google Drive usa /preview/.",
   "capitulos": [
     {
       "id": "001",
@@ -252,35 +252,35 @@
       "numero": 36,
       "titulo": "Una batalla inesperadamente cuesta arriba! ¡La gran explosión de furia de Vegeta",
       "embedUrl": "https://mega.nz/embed/u3IVkaaQ#1-dFLvlcS8lXkX9T3W-VlbmwOEREssblWAOaCmS3EtE",
-      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160330/20160330223508.jpg"
+      "thumbnail": "https://static.eldiario.es/clip/d2a9c9dd-540d-4da3-95ab-53db8232b849_16-9-aspect-ratio_default_0.jpg"
     },
     {
       "id": "037",
       "numero": 37,
       "titulo": "No olvides tu orgullo saiyajin! Vegeta contra el saiyajin del sexto universo",
       "embedUrl": "https://drive.google.com/file/d/1FYPfLyKjts-XKCHA8AexdMzvyffaK_AA/preview",
-      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160406/20160406224228.jpg"
+      "thumbnail": "https://image.p-c2-x.abema-tv.com/image/programs/5-30_s3_p37/thumb001.png?height=720&quality=75&version=1683628889&width=1280"
     },
     {
       "id": "038",
       "numero": 38,
       "titulo": "El guerrero más poderoso del 6º Universo! ¡Enfréntate al asesino!",
       "embedUrl": "https://mega.nz/embed/JiYWja5Q#e3riAhjX0wyMOO0LQHs8JoE8dHk-2yUrVJjul8umgmg",
-      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160413/20160413222905.jpg"
+      "thumbnail": "https://image-cf.kddi-video.com/d03/d035176a610520176dcd994f0bad6ebc/fit-background-transparent/1776751603/750x422.png"
     },
     {
       "id": "039",
       "numero": 39,
       "titulo": "Un Counter-Strike con salto temporal mejorado? ¡Aquí llega el nuevo movimiento de Goku!",
       "embedUrl": "https://drive.google.com/file/d/1ENPATYPFrFQr8gvZv7JBqUMhQLrXjBs-/preview",
-      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160420/20160420223536.jpg"
+      "thumbnail": "https://www.db-z.com/dragon-ball-super-episode-39/dragon-ball-super-episode-38-28-2/"
     },
     {
       "id": "040",
       "numero": 40,
       "titulo": "Por fin se ha tomado una decisión! ¿Ganará Beerus? ¿O será Champa",
       "embedUrl": "https://drive.google.com/file/d/16-axFneFlb4BGEGxiLWeJM-PipK6BVAF/preview",
-      "thumbnail": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hirohobby/20160427/20160427223519.jpg"
+      "thumbnail": "https://image.animationdigitalnetwork.com/license/dbsuper/tv/web/eps40_1920x1080.jpg"
     }
   ]
 }

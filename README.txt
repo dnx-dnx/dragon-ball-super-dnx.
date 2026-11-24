@@ -55,3 +55,6 @@ Capítulo 038: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=038
 Capítulo 039: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=039
 
 Capítulo 040: https://dnx-dnx.github.io/dragon-ball-super-dnx./ver.html?id=040
+
+MINIATURAS 036–040
+- Se reemplazaron las miniaturas de respaldo por imágenes de escenas correspondientes a los episodios 036–040.
